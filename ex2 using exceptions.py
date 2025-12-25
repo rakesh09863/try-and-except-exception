@@ -1,3 +1,4 @@
+
 try:
     s1=input('enter the first value:')
     s2=input('enter the second value:')
@@ -11,4 +12,8 @@ try:
 except ZeroDivisionError:
     print('do not enter Zero for den--')
 except ValueError:
+
     print('do not enter alnumbs,stmbols and str')
+
+    print('do not enter alphanumeric ,symbols and str')
+
