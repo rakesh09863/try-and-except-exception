@@ -6,3 +6,4 @@ print('first value={}'.format(a))
 print('second value={}'.format(b))
 c=a/b
 print('div=',c)
+print('program is completed')
